@@ -1,0 +1,21 @@
+insert bannana 3
+insert very 3
+insert serious 3
+insert verizon 3
+insert bank 3
+insert address 3
+insert verb 3
+insert serial 3
+insert anchor 3
+insert ancient 3
+insert bankruptcy 3
+insert ancestry 3
+insert addiction 3
+print_inorder
+heightPrint
+printBF
+findPrint	ser
+findPrint	anc
+findPrint	ver
+findPrint	ban
+findPrint	add

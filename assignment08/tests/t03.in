@@ -1,0 +1,53 @@
+insert	most	2
+insert	best	2
+insert	hello	2
+insert	special	2
+insert	please	2
+insert	the	2
+insert	better	2
+insert	herb	2
+insert	speed	2
+insert	plagiarism	2
+insert	bed	2
+insert	thanks	2
+insert	modern	2
+insert	beautiful	2
+insert	spell	2
+insert	they	2
+insert	bed	2
+insert	plural	2
+insert	heart	2
+insert	spanish	2
+insert	spark	2
+insert	place	2
+insert	beach	2
+insert	movie	2
+insert	long	2
+insert	install	2
+insert	football	2
+insert	music	2
+insert	red	2
+insert	inspire	2
+insert	food	2
+insert	local	2
+insert	love	2
+insert	instagram	2
+insert	loan	2
+insert	internet	2
+insert	multiple	2
+insert	rent	2
+insert	ready	2
+print_inorder
+heightPrint
+printBF
+findPrint	th
+findPrint	be
+findPrint	mo
+findPrint	he
+findPrint	sp
+findPrint	pl
+findPrint	mu
+findPrint	re
+findPrint	in
+findPrint	lo
+findPrint	fo
