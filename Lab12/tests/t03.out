@@ -1,0 +1,15 @@
+Testing BFS on node 0.
+0 4 2 1 6 5 10 7 8 9 11 3 12 
+Testing print path on node 3.
+0 2 6 10 9 3 
+Testing print levels on node 0.
+0 
+4 2 1 
+6 5 
+10 7 8 
+9 11 
+3 12 
+Testing DFS.
+0 4 2 6 10 9 3 11 12 7 5 8 1 
+Testing to check if a graph has a cycle.
+Graph has a cycle.

@@ -1,0 +1,27 @@
+19
+addEdge 0   1
+addEdge 0   3
+addEdge 1   2
+addEdge 2   3
+addEdge 3   4
+addEdge 4   5
+addEdge 4   8
+addEdge 5   6
+addEdge 6   12
+addEdge 7 12
+addEdge 8   7
+addEdge 10  11
+addEdge 8 9
+addEdge 8 10
+addEdge 9 11
+addEdge 12 13
+addEdge 7 14
+addEdge 14 15
+addEdge 15 16
+addEdge 13 16
+addEdge 1 17
+addEdge 17 18
+addEdge 2 18
+printGraph
+dfs
+twoColoring

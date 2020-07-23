@@ -1,0 +1,14 @@
+Adjacency lists of the graph are:
+1 3 
+0 2 
+1 3 
+0 2 4 
+3 5 8 
+4 6 
+5 7 
+6 8 
+4 7 9 10 
+8 11 
+11 8 
+10 9 
+Two-coloring is NOT possible in this graph.

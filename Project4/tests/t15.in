@@ -1,0 +1,17 @@
+12
+addEdge 0   1
+addEdge 0   3
+addEdge 1   2
+addEdge 2   3
+addEdge 3   4
+addEdge 4   5
+addEdge 4   8
+addEdge 5   6
+addEdge 6   7
+addEdge 8   7
+addEdge 10  11
+addEdge 8 9
+addEdge 8 10
+addEdge 9 11
+printGraph
+twoColoring

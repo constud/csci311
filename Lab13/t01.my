@@ -1,0 +1,17 @@
+2 3 
+3 4 
+5 
+
+10 
+6 8 
+7 8 
+2 
+
+4 
+9 
+5 and 7 are on the same cycle.
+4 and 6 are not on the same cycle.
+0 and 2 are not on the same cycle.
+0 and 7 are not on the same cycle.
+10 and 4 are on the same cycle.
+2 and 8 are not on the same cycle.

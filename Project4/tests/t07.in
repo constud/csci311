@@ -1,0 +1,15 @@
+10
+addEdge 0 9
+addEdge 1 2
+addEdge 4 1
+addEdge 3 2
+addEdge 3 4
+addEdge 1 5
+addEdge 5 6
+addEdge 9 6
+addEdge 7 6
+addEdge 7 8
+addEdge 8 9
+printGraph
+distinctPaths 6 8
+distinctPaths 3 9
